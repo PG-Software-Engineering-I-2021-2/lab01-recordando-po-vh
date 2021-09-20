@@ -1,28 +1,396 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="96" passed="96" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-17T17:29:59 PET" name="cs.ing.software.lab1.PruebaTest" finished-at="2021-09-17T17:29:59 PET" duration-ms="147">
+  <suite started-at="2021-09-20T17:28:00 PET" name="cs.ing.software.lab1.PruebaTest" finished-at="2021-09-20T17:28:00 PET" duration-ms="196">
     <groups>
     </groups>
-    <test started-at="2021-09-17T17:29:59 PET" name="Command line test" finished-at="2021-09-17T17:29:59 PET" duration-ms="147">
+    <test started-at="2021-09-20T17:28:00 PET" name="Command line test" finished-at="2021-09-20T17:28:00 PET" duration-ms="196">
       <class name="cs.ing.software.lab1.PruebaTest">
-        <test-method signature="Test01()[pri:0, instance:cs.ing.software.lab1.PruebaTest@1e4f4a5c]" started-at="2021-09-17T17:29:59 PET" name="Test01" finished-at="2021-09-17T17:29:59 PET" duration-ms="41" status="PASS">
+        <test-method signature="TestAuto_ManejarNeg()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestAuto_ManejarNeg" finished-at="2021-09-20T17:28:00 PET" duration-ms="18" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Test01 -->
-        <test-method signature="Test02()[pri:0, instance:cs.ing.software.lab1.PruebaTest@1e4f4a5c]" started-at="2021-09-17T17:29:59 PET" name="Test02" finished-at="2021-09-17T17:29:59 PET" duration-ms="9" status="PASS">
+        </test-method> <!-- TestAuto_ManejarNeg -->
+        <test-method signature="TestAuto_ManejarOK()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestAuto_ManejarOK" finished-at="2021-09-20T17:28:00 PET" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Test02 -->
-        <test-method signature="Test03()[pri:0, instance:cs.ing.software.lab1.PruebaTest@1e4f4a5c]" started-at="2021-09-17T17:29:59 PET" name="Test03" finished-at="2021-09-17T17:29:59 PET" duration-ms="0" status="PASS">
+        </test-method> <!-- TestAuto_ManejarOK -->
+        <test-method signature="TestAuto_ManejarReabastecer()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestAuto_ManejarReabastecer" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Test03 -->
-        <test-method signature="Test04()[pri:0, instance:cs.ing.software.lab1.PruebaTest@1e4f4a5c]" started-at="2021-09-17T17:29:59 PET" name="Test04" finished-at="2021-09-17T17:29:59 PET" duration-ms="0" status="PASS">
+        </test-method> <!-- TestAuto_ManejarReabastecer -->
+        <test-method signature="TestAuto_ManejarZero()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestAuto_ManejarZero" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Test04 -->
+        </test-method> <!-- TestAuto_ManejarZero -->
+        <test-method signature="TestAuto_ReabastecerFull()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestAuto_ReabastecerFull" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAuto_ReabastecerFull -->
+        <test-method signature="TestAuto_ReabastecerNeg()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestAuto_ReabastecerNeg" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAuto_ReabastecerNeg -->
+        <test-method signature="TestAuto_ReabastecerOK()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestAuto_ReabastecerOK" finished-at="2021-09-20T17:28:00 PET" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAuto_ReabastecerOK -->
+        <test-method signature="TestAuto_ReabastecerZero()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestAuto_ReabastecerZero" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAuto_ReabastecerZero -->
+        <test-method signature="TestCamion_ManejarNeg()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_ManejarNeg" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_ManejarNeg -->
+        <test-method signature="TestCamion_ManejarOK()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_ManejarOK" finished-at="2021-09-20T17:28:00 PET" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_ManejarOK -->
+        <test-method signature="TestCamion_ManejarReabastecer()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_ManejarReabastecer" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_ManejarReabastecer -->
+        <test-method signature="TestCamion_ManejarZero()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_ManejarZero" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_ManejarZero -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_Reabastecer80()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_Reabastecer80" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_Reabastecer80 -->
+        <test-method signature="TestCamion_ReabastecerFull()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_ReabastecerFull" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_ReabastecerFull -->
+        <test-method signature="TestCamion_ReabastecerNeg()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_ReabastecerNeg" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_ReabastecerNeg -->
+        <test-method signature="TestCamion_ReabastecerZero()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_ReabastecerZero" finished-at="2021-09-20T17:28:00 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_ReabastecerZero -->
+        <test-method signature="TestCamion_ReabastecerOk()[pri:0, instance:cs.ing.software.lab1.PruebaTest@4470fbd6]" started-at="2021-09-20T17:28:00 PET" name="TestCamion_ReabastecerOk" finished-at="2021-09-20T17:28:00 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCamion_ReabastecerOk -->
       </class> <!-- cs.ing.software.lab1.PruebaTest -->
     </test> <!-- Command line test -->
   </suite> <!-- cs.ing.software.lab1.PruebaTest -->

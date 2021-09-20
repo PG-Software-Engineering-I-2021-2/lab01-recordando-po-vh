@@ -1,30 +1,35 @@
 
 <cs.ing.software.lab1.Camion#reabastecer(D)Ljava/lang/String;q
-g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java ("2"1*´
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java ("2"3"1*ê
 2q
-g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (N"≤
-q
-g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (O=;
-9No de puede reabastecer el tanque del Camion. Esta lleno.*ê
-1q
-g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (ƒ
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java" "(#ƒ
 ¡
 q
-g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (>
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java# #(B
 %0java.lang.String"__concat*" 
 El combustible del Camion es: *
 ""¿
 Ω
 q
-g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (K
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java# #(O
 %1java.lang.String"__concat*
 
 %0java.lang.String*
 
  litros."ç
 q
-g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (L
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java# #(P
 
-%1java.lang.String:
+%1java.lang.String*´
+3q
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java   (R"≤
+q
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java   (S=;
+9No de puede reabastecer el tanque del Camion. Esta lleno.*ô
+1q
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java& &(<"†
+q
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java& &(=+)
+'Camion: Debe colocar un valor positivo.:
 ""B
 cs.ing.software.lab1.Camion

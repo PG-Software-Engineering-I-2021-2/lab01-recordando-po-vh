@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="cs.ing.software.lab1.PruebaTest" time="0.052" errors="0" skipped="0">
+<testsuite tests="96" failures="0" name="cs.ing.software.lab1.PruebaTest" time="0.058" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="16.0.2+0"/>
@@ -57,8 +57,100 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="Test01" time="0.042"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="Test02" time="0.01"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="Test03" time="0"/>
-  <testcase classname="cs.ing.software.lab1.PruebaTest" name="Test04" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestAuto_ManejarNeg" time="0.018"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestAuto_ManejarOK" time="0.013"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestAuto_ManejarReabastecer" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestAuto_ManejarZero" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestAuto_ReabastecerFull" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestAuto_ReabastecerNeg" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestAuto_ReabastecerOK" time="0.002"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestAuto_ReabastecerZero" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_ManejarNeg" time="0.002"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_ManejarOK" time="0.005"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_ManejarReabastecer" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_ManejarZero" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0.002"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0.002"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_Reabastecer80" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_ReabastecerFull" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_ReabastecerNeg" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_ReabastecerOk" time="0"/>
+  <testcase classname="cs.ing.software.lab1.PruebaTest" name="TestCamion_ReabastecerZero" time="0"/>
 </testsuite>

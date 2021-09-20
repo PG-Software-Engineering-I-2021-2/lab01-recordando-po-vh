@@ -1,30 +1,35 @@
 
 ?cs.ing.software.lab1.Automovil#reabastecer(D)Ljava/lang/String;t
-j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java ("2"1*´
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java ("2"3"1*Ÿ
 2t
-j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (Q"¸
-t
-j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (R@>
-<No de puede reabastecer el tanque del Automovil. Esta lleno.*Ÿ
-1t
-j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (Ê
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java# #(#Ê
 Ç
 t
-j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (A
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java$ $(E
 %0java.lang.String"__concat*%#
 !El combustible del Automovil es: *
 ""Ã
 À
 t
-j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (L
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java$ $(R
 %1java.lang.String"__concat*
 
 %0java.lang.String*
 
  litros."
 t
-j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (M
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java$ $(S
 
-%1java.lang.String:
+%1java.lang.String*´
+3t
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java! !(U"¸
+t
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java! !(V@>
+<No de puede reabastecer el tanque del Automovil. Esta lleno.*¢
+1t
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java' '(?"¦
+t
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java' '(@.,
+*Automovil: Debe colocar un valor positivo.:
 ""B" 
 cs.ing.software.lab1.Automovil

@@ -8,27 +8,35 @@ public class Automovil extends Vehiculo {
 
     @Override
     String imprimirViaje(double viajeKm) {
-        double consumoViaje = viajeKm * consumo;
-        double remanenteFuel = cantidad - consumoViaje;
 
-        if(remanenteFuel > 0) {
-            this.cantidad = this.cantidad - consumoViaje;
-            return "El Automovil viajo: " + viajeKm + " Km y aun tiene " + remanenteFuel + " litros de combustible";
+        if (viajeKm >= 0) {
+            double consumoViaje = viajeKm * consumo;
+            double remanenteFuel = cantidad - consumoViaje;
+
+            if (remanenteFuel > 0) {
+                this.cantidad = this.cantidad - consumoViaje;
+                return "El Automovil viajo: " + viajeKm + " Km y aun tiene " + remanenteFuel + " litros de combustible.";
+            } else {
+                return "El Automovil necesita reabastecmiento de combustible.";
+            }
         }else{
-            return "El Automovil necesita reabastecmiento de combustible.";
+            return "Automovil: Debe colocar un valor positivo.";
         }
     }
-
     @Override
     String reabastecer(double litros){
-        double espacio = capacidad - cantidad;
+        if(litros >=0) {
 
-        if (litros > espacio) {
-            return "No de puede reabastecer el tanque del Automovil. Esta lleno.";
-        }
-        else{
-            cantidad = cantidad + litros;
-            return "El combustible del Automovil es: " + cantidad+" litros.";
+
+            double espacio = capacidad - cantidad;
+            if (litros > espacio) {
+                return "No de puede reabastecer el tanque del Automovil. Esta lleno.";
+            } else {
+                cantidad = cantidad + litros;
+                return "El combustible del Automovil es: " + cantidad + " litros.";
+            }
+        }else{
+            return "Automovil: Debe colocar un valor positivo.";
         }
     }
 }

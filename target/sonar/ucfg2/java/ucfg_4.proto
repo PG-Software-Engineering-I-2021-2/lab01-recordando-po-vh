@@ -1,32 +1,37 @@
 
 >cs.ing.software.lab1.Camion#imprimirViaje(D)Ljava/lang/String;q
-g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java	 	("2"1*π
-
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java	 	("2"3"1*§
 2q
-g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (∑
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (K"´
+q
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (L64
+2El Camion necesita reabastecmiento de combustible.*π
+
+3q
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (#∑
 ¥
 q
-g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (.
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (4
 %0java.lang.String"__concat*
 El Camion viajo: *
 ""»
 ≈
 q
-g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (A
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (I
 %1java.lang.String"__concat*
 
 %0java.lang.String*
  Km y aun tiene à
 Ö
 q
-g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.javaB (f
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.javaL (p
 %2java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
 java.lang.String*
 %.2f*
 ""Ã
 …
 q
-g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (f
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (p
 %3java.lang.String"__concat*
 
 %1java.lang.String*
@@ -34,19 +39,19 @@ g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/s
 %2java.lang.String–
 Õ
 r
-g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (Å
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (å
 %4java.lang.String"__concat*
 
 %3java.lang.String*
  litros de combustible."é
 r
-g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (Ç
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (ç
 
-%4java.lang.String*§
+%4java.lang.String*ô
 1q
-g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (G"´
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (<"†
 q
-g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (H64
-2El Camion necesita reabastecmiento de combustible.:
+g/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Camion.java (=+)
+'Camion: Debe colocar un valor positivo.:
 ""B
 cs.ing.software.lab1.Camion

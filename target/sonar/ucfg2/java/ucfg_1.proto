@@ -2,44 +2,49 @@
 Acs.ing.software.lab1.Automovil#imprimirViaje(D)Ljava/lang/String;t
 j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java
  
-("2"1*Æ
+("2"3"1*≠
 2t
-j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java ( Ω
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (N"±
+t
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (O97
+5El Automovil necesita reabastecmiento de combustible.*Ø
+3t
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java  ($Ω
 ∫
 t
-j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (3
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (7
 %0java.lang.String"__concat*
 El Automovil viajo: *
 ""À
 »
 t
-j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (H
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (L
 %1java.lang.String"__concat*
 
 %0java.lang.String*
  Km y aun tiene Ω
 ∫
 t
-j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (X
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (\
 %2java.lang.String"__concat*
 
 %1java.lang.String*
-""—
-Œ
+""“
+œ
 t
-j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (s
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (x
 %3java.lang.String"__concat*
 
-%2java.lang.String*
- litros de combustible"ê
+%2java.lang.String*
+ litros de combustible."ê
 t
-j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (t
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (y
 
-%3java.lang.String*≠
+%3java.lang.String*¢
 1t
-j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (J"±
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (?"¶
 t
-j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (K97
-5El Automovil necesita reabastecmiento de combustible.:
+j/Users/victorherrera/IdeaProjects/lab01-recordando-po-vh/src/main/java/cs/ing/software/lab1/Automovil.java (@.,
+*Automovil: Debe colocar un valor positivo.:
 ""B" 
 cs.ing.software.lab1.Automovil
